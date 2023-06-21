@@ -1,0 +1,12 @@
+C:\Users\utku2\source\repos\ConsoleAppLogger\ConsoleAppLogger\obj\Debug\ConsoleAppLogger.csproj.AssemblyReference.cache
+C:\Users\utku2\source\repos\ConsoleAppLogger\ConsoleAppLogger\obj\Debug\ConsoleAppLogger.csproj.SuggestedBindingRedirects.cache
+C:\Users\utku2\source\repos\ConsoleAppLogger\ConsoleAppLogger\obj\Debug\ConsoleAppLogger.Properties.Resources.resources
+C:\Users\utku2\source\repos\ConsoleAppLogger\ConsoleAppLogger\obj\Debug\ConsoleAppLogger.csproj.GenerateResource.cache
+C:\Users\utku2\source\repos\ConsoleAppLogger\ConsoleAppLogger\obj\Debug\ConsoleAppLogger.csproj.CoreCompileInputs.cache
+C:\Users\utku2\source\repos\ConsoleAppLogger\ConsoleAppLogger\bin\Debug\ConsoleAppLogger.exe.config
+C:\Users\utku2\source\repos\ConsoleAppLogger\ConsoleAppLogger\bin\Debug\ConsoleAppLogger.exe
+C:\Users\utku2\source\repos\ConsoleAppLogger\ConsoleAppLogger\bin\Debug\ConsoleAppLogger.pdb
+C:\Users\utku2\source\repos\ConsoleAppLogger\ConsoleAppLogger\obj\Debug\ConsoleAppLogger.exe
+C:\Users\utku2\source\repos\ConsoleAppLogger\ConsoleAppLogger\obj\Debug\ConsoleAppLogger.pdb
+C:\Users\utku2\source\repos\ConsoleAppLogger\ConsoleAppLogger\obj\Debug\ConsoleAppLogger.Form1.resources
+C:\Users\utku2\source\repos\ConsoleAppLogger\ConsoleAppLogger\obj\Debug\ConsoleAppLogger.HomePage.resources
